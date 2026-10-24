@@ -4,7 +4,7 @@ A modern, user-friendly web application built with a focus on clean design, resp
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [Visit Arm New Bangla]([YOUR_LIVE_WEBSITE_URL]https://bangla-news-24-alpha.vercel.app/)
+🔗 **Live Website:** [Visit Arm New Bangla](https://bangla-news-24-alpha.vercel.app/)
 
 ## 📖 About The Project
 
